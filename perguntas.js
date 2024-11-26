@@ -5,15 +5,21 @@ criaCartao(
 )
 
 criaCartao(
+    'Programação',
+    'Qual a diferença entre margin e padding?',
+    'O padding cria um espaçamento interno e o margin cria um espaçamento externo'
+)
+
+criaCartao(
     'Geografia',
     'Qual a capital da França?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Em que período ocorreu a Primeira Revolução Industrial?',
+    'Por volta de 1760 e 1850'
 )
 
 criaCartao(

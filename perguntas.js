@@ -12,12 +12,24 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Qual a diferença entre Margin e Padding?',
+    'Margin cria espaçamento externo e Padding cria espaçamento interno'
 )
 
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
+)
+
+criaCartao(
+    'História',
+    'Em que período ocorreu a Primeira Revolução Industrial?',
+    'Entre os anos de 1760 e 1850'
+)
+
+criaCartao(
+    'Filmes',
+    'Em qual filme da trilogia Velozes e furiosos os personagens Torreto e Brian saltam entre 3 prédios em um supercarro?',
+    'Velozes e Furiosos 7'
 )
